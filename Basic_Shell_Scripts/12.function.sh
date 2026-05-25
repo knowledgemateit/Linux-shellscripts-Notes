@@ -1,7 +1,4 @@
 #!/bin/bash
-
-# NOTE: This script must be run as root (sudo) because it manages real services!
-
 function StartService () {
     echo "⚙️ Attempting to start: $1..."  
 
