@@ -1,4 +1,3 @@
-6. File Encryption-Decryption Script:
 #!/bin/bash
 file="/opt/file.txt"
 # Encrypt file using AES-256-CBC
